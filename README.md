@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudiptapatra
-- 👀 I’m interested in front end develpoment
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python, dsa, html/css and javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email: sudiptapatra1102@gmail.com
